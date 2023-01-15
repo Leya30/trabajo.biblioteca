@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414380149787",
+    "project_id": "biblioteca-ad192",
+    "storage_bucket": "biblioteca-ad192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414380149787:android:f960ff67cac9b21cfdfcbe",
+        "android_client_info": {
+          "package_name": "com.leya1001.biblioteca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414380149787-uj03q7ukbcaqtgltctgv0nl9ppqbv5rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIoItamsmDlpIsh2TpRTdSgI90QfE5wLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414380149787-uj03q7ukbcaqtgltctgv0nl9ppqbv5rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
